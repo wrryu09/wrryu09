@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wrryu09
-- 👀 I’m interested in Web & Design
-- 🌱 I’m currently learning Computer Science, JS, CSS, HTML, UX/UI, Visual Design...
+- 👀 I’m interested in 💻Web + ✏️Design
+- 🌱 I’m currently learning Computer Science, JS/CSS/HTML, UX/UI, Visual Design...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrryu09&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrryu09&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
