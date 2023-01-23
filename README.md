@@ -4,7 +4,7 @@
 - I’m currently learning Computer Science, UX/UI, Visual Design...
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrryu09&&count_private=true&theme=onedark&show_icons=true&hide_border=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrryu09&card_width=445px&count_private=true&theme=onedark&show_icons=true&hide_border=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrryu09&theme=onedark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
