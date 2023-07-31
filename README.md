@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F2F2F2&height=170&radius=4.5&section=header&text=SY%20Ryu's%20Github&fontSize=40&animation=fadeIn&fontAlign=18)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F2F2F2&height=170&radius=4.5&section=header&text=SY%20Ryu's%20Github&fontSize=40&animation=fadeIn)
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/595.gif">
 <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/258.gif">
 <!--   <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/524.gif"> -->
