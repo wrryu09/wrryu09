@@ -1,14 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F2F2F2&height=170&radius=4.5&section=header&text=SY%20Ryu's%20Github&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=170&radius=4.5&section=header&text=SY%20Ryu's%20Github&fontSize=40&animation=fadeIn)
 
-<p align="center">
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/595.gif">
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/258.gif">
-<!--   <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/524.gif"> -->
-<!-- <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/595.gif"> -->
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/595.gif">
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/258.gif">
-<!--   <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/524.gif"> -->
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/595.gif">
+<p align="left">
+<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif?raw=true">
+<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/446.gif?raw=true">
 </p>
 
 <br/>
@@ -29,3 +23,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrryu09&card_width=445px&count_private=true&theme=onedark&show_icons=true&hide_border=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+<!--<br />  
+<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/446.gif?raw=true">
+<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/258.gif?raw=true"> -->
