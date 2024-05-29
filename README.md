@@ -18,24 +18,6 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    「 Web application developer from <b>South Korea</b> 」
-    <br>
-  </samp>
-    <br>
-    <br>
-
-<samp>
-Interested In Front-end Dev & UXUI Design
-    <br>
-    e-mail me! coclebur@gmail.com
-    <br>
-</samp>
-<br />
-
-</p>
-
 <br />
 <br/>
 
