@@ -12,7 +12,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I'm
                 <b>Ryu</b> <
         </samp>
 </h3>
@@ -51,9 +51,8 @@
 
 <br/>
 <br/>
-
-  <br/>
-
-<!--<br />  
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/446.gif?raw=true">
-<img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/back/258.gif?raw=true"> -->
+<div align="left">
+  
+![wrryu09's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrryu09&show_icons=true&theme=dark)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mitvca09)
+<div />
