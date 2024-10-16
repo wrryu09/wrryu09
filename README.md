@@ -13,7 +13,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I'm
-                <b>Ryu</b> <
+                <b>SeungYeon Ryu</b> <
         </samp>
 </h3>
 
@@ -56,3 +56,7 @@
 ![wrryu09's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrryu09&show_icons=true&theme=dark)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mitvca09)
 <div />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/wrryu09"/>
+</a>
